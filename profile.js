@@ -1,1 +1,3 @@
-'// Web edit: add comment'
+'function showProfile() {' 
+'  console.log("User Profile");' 
+'}' 
