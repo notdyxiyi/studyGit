@@ -1,2 +1,1 @@
-'function sayHello() { console.log("Hello!"); }' 
-'sayHello();' 
+'console.log("Local edit simulation");' 
